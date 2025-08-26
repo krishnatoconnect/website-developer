@@ -1,11 +1,31 @@
 {
   "menu": {
-    "title": "Jobs",
+    "title": "website dev",
     "icon": "fas fa-cog",
     "url": "jobs",
     "styles": "",
     "parent": null,
     "order" : "1",
-    "is_active" : 1
-  }
+    "is_active" : 1,
+    "submenu":[
+      {
+        "title": "front end,
+        "icon": "fas fa-cog",
+        "url": "front",
+        "styles": "",
+        "parent": null,
+        "order" : "1",
+        "is_active" : 1
+      },
+      {
+        "title": "back end,
+        "icon": "fas fa-cog",
+        "url": "back",
+        "styles": "",
+        "parent": null,
+        "order" : "1",
+        "is_active" : 1
+      }
+    ]
+  },
 }
