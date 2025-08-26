@@ -9,7 +9,7 @@
     "is_active" : 1,
     "submenu":[
       {
-        "title": "front end,
+        "title": "front end",
         "icon": "fas fa-cog",
         "url": "front",
         "styles": "",
@@ -18,7 +18,7 @@
         "is_active" : 1
       },
       {
-        "title": "back end,
+        "title": "back end",
         "icon": "fas fa-cog",
         "url": "back",
         "styles": "",
