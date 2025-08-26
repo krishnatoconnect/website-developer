@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "title": "Jobs",
+    "icon": "fas fa-cog",
+    "url": "jobs",
+    "styles": "",
+    "parent": null,
+    "order" : "1",
+    "is_active" : 1
+  }
+}
